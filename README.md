@@ -16,23 +16,19 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-<h2 height="200px" align="center">Hey ! I am Chao Hu <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25"></h2>
+<h2 height="200px" align="center">Hey ! I am Matser Jing <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25"></h2>
 <h2 align="center">A passionate Golang backend development engineer from China</h3>
 </p>
-
-(### Hi there ✋ I am Matser Jing)
-(<h2> Hey there! I'm Matser Jing. <img src="./images/Hi.gif" width="25"></h2>)
-(<h2> Hey there! I'm Matser Jing. <img src="https://i.postimg.cc/Px9Tv9FZ/Hi.gif" width="25"></h2>)
 
 [![Github](https://img.shields.io/github/followers/mao888?label=Github&style=social)](https://github.com/870869624)
 [![Gitee](https://img.shields.io/badge/-码云-EA4335?style=flat-square&logo=Gitee&logoColor=white)](https://gitee.com/jing-haijun)
 [![BiliBili](https://img.shields.io/badge/-bilibili-blue)](https://space.bilibili.com/3493290657712533)
 [![CSDN](https://img.shields.io/badge/-CSDN-c14438?style=flat-square&logo=C&logoColor=white)](https://blog.csdn.net/u010155200?spm=1000.2115.3001.5343)
 [![简书](https://img.shields.io/badge/-简书-c14438?style=flat-square&logo=简&logoColor=white)](https://www.jianshu.com/u/de2177d73ff1)
-[![Gmail Badge](https://img.shields.io/badge/gmail-qwxxhuchao@gmail.com-Green?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qwxxhuchao@gmail.com)](j870869624@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/gmail-qwxxhuchao@gmail.com-Green?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qwxxhuchao@gmail.com)](mailto:j870869624@gmail.com)
 
-([![Twitter]&#40;https://img.shields.io/twitter/follow/pseudo_yu?logo=twitter&style=flat-square&#41;]&#40;https://twitter.com/pseudo_yu&#41;)
-([![Visits Badge]&#40;https://badges.strrl.dev/visits/pseudoyu/pseudoyu?style=flat-square&#41;]&#40;https://github.com/pseudoyu&#41;)
+([![抖音]&#40;https://img.shields.io/twitter/follow/pseudo_yu?logo=twitter&style=flat-square&#41;]&#40;https://twitter.com/pseudo_yu&#41;)
+
 
 <br />
 
