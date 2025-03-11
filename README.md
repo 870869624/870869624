@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 - 📝 I’m currently working on  [BlueCity](https://www.bluecity.com/)
 - 🌱 I’m currently learning 【后端】【微服务】【区块链】【游戏开发】
 - 🚀 Motto: 如果有不可能，那就去创造。
-- 📫 How to reach me: WeChat:17364747210 OR <a href="https://space.bilibili.com/289144374?spm_id_from=333.1007.0.0" target="_blank">B 站 </a>
+- 📫 How to reach me: WeChat:17364747210 OR <a href="https://space.bilibili.com/3493290657712533" target="_blank">B 站 </a>
 - 🔥 Fun fact: swimming、League of Legends games
 - 💬 ask me about anything, I am happy to help
 - 🔧 <a href="https://github.com/mao888/golang-guide">Golang求职笔经面经</a>
