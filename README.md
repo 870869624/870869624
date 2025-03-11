@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 <h3>🛠 Tech Stack</h3>
 
-(#### 🔨 Coding Activities)
+<!-- (#### 🔨 Coding Activities) -->
 [![Contributions Badge](https://badges.strrl.dev/contributions/all/mao888?style=flat-square)](https://github.com/870869624)
 [![Contributions Badge](https://badges.strrl.dev/contributions/weekly/mao888?style=flat-square)](https://github.com/870869624)
 [![Commits Badge](https://badges.strrl.dev/commits/weekly/mao888?style=flat-square)](https://github.com/870869624)
