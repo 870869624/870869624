@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <!-- (![grid snake animation]&#40;./images/github-user-contribution.svg&#41;) -->
 
 <img align="right" alt="GIF" src="./images/right.gif" width="500"/>
-<img align="right" alt="GIF" src="https://i.postimg.cc/G2SgwTzd/right.gif" width="400"/>
+<!-- <img align="right" alt="GIF" src="https://i.postimg.cc/G2SgwTzd/right.gif" width="400"/> -->
 
 **About me**
 
