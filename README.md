@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 &nbsp; <a href="https://github.com/870869624" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/QMctDX6P/github.gif"  width="50" /></a>
-&nbsp; <a href="https://www.douyin.com/user/self?from_tab_name=main" target="_blank" rel="noopener noreferrer"><img alt="GIF" src="https://i.postimg.cc/L4Bwc9MF/u-360921970-1201638078-fm-253-fmt-auto-app-138-f-PNG.webp" width="50" /></a>
+&nbsp; <a href="https://www.douyin.com/user/self?from_tab_name=main" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/L4Bwc9MF/u-360921970-1201638078-fm-253-fmt-auto-app-138-f-PNG.webp" width="50" /></a>
 &nbsp; <a href="mailto:j870869624@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/pXgRLwnt/email.gif"  width="50" /></a>
 
 <!-- <b><details><summary> :orange_book:点击此处可展开 官方公众号: Gopher毛；QQ交流群4：1005877636；QQ交流群3(满)：805360166（活跃 巨佬云集）；QQ交流群2(满)；QQ交流群1(满) :1007576722</summary></b> -->
