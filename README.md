@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 
 <!-- <b><details><summary> :orange_book:点击此处可展开 官方公众号: Gopher毛；QQ交流群4：1005877636；QQ交流群3(满)：805360166（活跃 巨佬云集）；QQ交流群2(满)；QQ交流群1(满) :1007576722</summary></b> -->
 <b><details><summary> :orange_book:点击此处可展开</summary></b>
-**请扫描或搜索下方二维码、公众号，获取想要的资料、八股。**
+**请扫描或搜索下方二维码，获取想要的资料、八股。**
 
 <a name="QQ"></a>
 <div align="center"><img src="https://i.postimg.cc/YSPMmpCs/IMG-1541.jpg" style="zoom:20%;" />
