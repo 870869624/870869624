@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 [![简书](https://img.shields.io/badge/-简书-c14438?style=flat-square&logo=简&logoColor=white)](https://www.jianshu.com/u/de2177d73ff1)
 [![Gmail Badge](https://img.shields.io/badge/gmail-qwxxhuchao@gmail.com-Green?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qwxxhuchao@gmail.com)](mailto:j870869624@gmail.com)
 
-([![抖音]&#40;https://img.shields.io/twitter/follow/pseudo_yu?logo=twitter&style=flat-square&#41;]&#40;https://twitter.com/pseudo_yu&#41;)
-
 
 <br />
 
@@ -41,7 +39,7 @@ Here are some ideas to get you started:
 
 <!-- (![grid snake animation]&#40;./images/github-user-contribution.svg&#41;) -->
 
-(<img align="right" alt="GIF" src="./images/right.gif" width="500"/>)
+<img align="right" alt="GIF" src="./images/right.gif" width="500"/>
 <img align="right" alt="GIF" src="https://i.postimg.cc/G2SgwTzd/right.gif" width="400"/>
 
 **About me**
@@ -71,6 +69,7 @@ Here are some ideas to get you started:
 &nbsp; <a href="https://github.com/870869624" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/QMctDX6P/github.gif"  width="50" /></a>
 &nbsp; <a href="https://www.douyin.com/user/self?from_tab_name=main" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/L4Bwc9MF/u-360921970-1201638078-fm-253-fmt-auto-app-138-f-PNG.webp" width="50" /></a>
 &nbsp; <a href="mailto:j870869624@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/pXgRLwnt/email.gif"  width="50" /></a>
+&nbsp; <a href="https://www.xiaohongshu.com/user/profile/5c866a1e000000001000d66e?xsec_token=YB2B7LpdGfjMCWBKmVf7HE7Df-aRt7z4n9LAWT6mQKbV8=&xsec_source=app_share&xhsshare=CopyLink&appuid=5c866a1e000000001000d66e&apptime=1741676344&share_id=2848e8fa5abd4bf398b5443bcabb5b07" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/6312qskW/u-2518104934-3183726392-fm-253-fmt-auto-app-120-f-JPEG.webp"  width="50" /></a>
 
 <!-- <b><details><summary> :orange_book:点击此处可展开 官方公众号: Gopher毛；QQ交流群4：1005877636；QQ交流群3(满)：805360166（活跃 巨佬云集）；QQ交流群2(满)；QQ交流群1(满) :1007576722</summary></b> -->
 <b><details><summary> :orange_book:点击此处可展开</summary></b>
