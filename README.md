@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   <img src="https://profile-counter.glitch.me/mao888/count.svg" />
 </p>
 
-(![grid snake animation]&#40;./images/github-user-contribution.svg&#41;)
+<!-- (![grid snake animation]&#40;./images/github-user-contribution.svg&#41;) -->
 
 (<img align="right" alt="GIF" src="./images/right.gif" width="500"/>)
 <img align="right" alt="GIF" src="https://i.postimg.cc/G2SgwTzd/right.gif" width="400"/>
@@ -68,39 +68,27 @@ Here are some ideas to get you started:
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-&nbsp; <a href="https://github.com/mao888" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/QMctDX6P/github.gif"  width="50" /></a>
-&nbsp; <a href="https://twitter.com/v5m30Xj70Z5IS5C" target="_blank" rel="noopener noreferrer"><img alt="GIF" src="https://i.postimg.cc/3xvrj8HR/twitter.gif" width="50" /></a>
-&nbsp; <a href="mailto:qwxxhuchao@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/pXgRLwnt/email.gif"  width="50" /></a>
+&nbsp; <a href="https://github.com/870869624" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/QMctDX6P/github.gif"  width="50" /></a>
+&nbsp; <a href="https://www.douyin.com/user/self?from_tab_name=main" target="_blank" rel="noopener noreferrer"><img alt="GIF" src="https://i.postimg.cc/L4Bwc9MF/u-360921970-1201638078-fm-253-fmt-auto-app-138-f-PNG.webp" width="50" /></a>
+&nbsp; <a href="mailto:j870869624@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/pXgRLwnt/email.gif"  width="50" /></a>
 
-<b><details><summary> :orange_book:点击此处可展开 官方公众号: Gopher毛；QQ交流群4：1005877636；QQ交流群3(满)：805360166（活跃 巨佬云集）；QQ交流群2(满)；QQ交流群1(满) :1007576722</summary></b>
+<!-- <b><details><summary> :orange_book:点击此处可展开 官方公众号: Gopher毛；QQ交流群4：1005877636；QQ交流群3(满)：805360166（活跃 巨佬云集）；QQ交流群2(满)；QQ交流群1(满) :1007576722</summary></b> -->
+<b><details><summary> :orange_book:点击此处可展开</summary></b>
+**请扫描或搜索下方二维码、公众号，获取想要的资料、八股。**
 
-**请扫描或搜索下方二维码、公众号，获取想要的资料、八股或进群交流。**
-
-<a name="公众号"></a>
-<div align="center"><img src="https://i.postimg.cc/zXkfPv6P/image.png" style="zoom:20%;" />
-    <p>官方公众号：Gopher毛</p>
+<a name="QQ"></a>
+<div align="center"><img src="https://i.postimg.cc/YSPMmpCs/IMG-1541.jpg" style="zoom:20%;" />
+    <p>QQ</p>
 </div>
-<div align="center"><img src="https://i.postimg.cc/fTPfsmV5/Gophers4.png" style="zoom:45%;" />
-   <p>QQ交流群4：1005877636</p>
-</div>
-<div align="center"><img src="https://i.postimg.cc/hjK9s0Y4/Gophers3.png" style="zoom:45%;" />
-   <p>QQ交流群3(满)：805360166</p>
-</div>
-<div align="center"><img src="https://i.postimg.cc/VkLNy1cs/Gophers2.png" style="zoom:45%;" />
-   <p>QQ交流群2(满)：579480724</p>
-</div>
-<div align="center"><img src="https://i.postimg.cc/C5QQDnnv/Gophers-1.png" style="zoom:45%;" />
-   <p>QQ交流群1(满)：1007576722</p>
-</div>
-<div align="center"><img src="https://i.postimg.cc/wxZ5TfBd/image.jpg" style="zoom:15%;" />
-    <p>博主微信：(18836288306)加我v拉微信群</p>
+<div align="center"><img src="https://i.postimg.cc/k4t9QkVX/IMG-1540.jpg" style="zoom:15%;" />
+    <p>博主微信：(17364747210)加我v拉微信群</p>
 </div>
 </details>
 
 
 ## :octocat: Github Stats
 
-<table align="center" width="100%">
+<!-- <table align="center" width="100%">
   <tr>
     <td align="center">
       <strong> 🌟 The following are the companies I have worked for 🌟 </strong><br>
@@ -136,12 +124,12 @@ Here are some ideas to get you started:
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=mao888&theme=gotham">
     </td>
   </tr>
-</table>
+</table> -->
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=mao888&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🗂️ Highlight Projects
+<!-- ## 🗂️ Highlight Projects
 <td align="center">
     <a href="https://github.com/mao888/golang-guide">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mao888&repo=golang-guide&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="golang-guide" />
@@ -164,4 +152,4 @@ Here are some ideas to get you started:
     <a href="https://github.com/mao888/go-utils">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mao888&repo=go-utils&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="go-utils" />
     </a>
-</td>
+</td> -->
