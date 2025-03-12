@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: WeChat:17364747210 OR <a href="https://space.bilibili.com/3493290657712533" target="_blank">B 站 </a>
 - 🔥 Fun fact: swimming、League of Legends games
 - 💬 ask me about anything, I am happy to help
-- 🔧 <a href="https://github.com/mao888/golang-guide">Golang求职笔经面经</a>
+- 🔧 <a href="https://github.com/870869624/Golang-Guide">Golang求职笔经面经</a>
 
 <h3>🛠 Tech Stack</h3>
 
