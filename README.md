@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 - 🔭 I am a Golang back-end development engineer from Henan, China
 - 🤔 I love computer, cross-major self-study, now Java to GO
-- 📝 I’m currently working on  [TopSec]([https://www.bluecity.com/](https://www.topsec.com.cn/))
+- 📝 I’m currently working on  [TopSec]([https://www.topsec.com.cn/])
 - 🌱 I’m currently learning 【后端】【微服务】【区块链】【游戏开发】
 - 🚀 Motto: 如果有不可能，那就去创造。
 - 📫 How to reach me: WeChat:17364747210 OR <a href="https://space.bilibili.com/3493290657712533" target="_blank">B 站 </a>
